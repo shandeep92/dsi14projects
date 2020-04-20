@@ -7,12 +7,11 @@ This project analyses the SAT and ACT participation rates along with the test sc
 ### Executive Summary
 In general, the ACT is a more common mode of exam as compared to the SAT.
 
-High participation rates on either the SAT or the ACT typically means low participation rates for the other test across states in the USA. This trend is heightened in states where the ACT is mandatory. Thus, it makes sense to channel the resources and funds to states where the ACT is not compulsory.
+High participation rates on either the SAT or the ACT typically means low participation rates for the other test across states in the USA. This trend is heightened in states where the ACT is mandatory. Thus, it makes sense to channel the resources and funds to states where the ACT is not compulsory. As far as test scores are concerned, they remained fairly similar even at the high and low ends of the grades. However, a trend that emerges from the data is that states do not fare as well if tests are mandatory.In order to increase the SAT participation rates, the board should channel the resources to states where the ACT is not contracted. 
 
-As far as test scores are concerned, they remained fairly similar even at the high and low ends of the grades. However, a trend that emerges from the data is that states do not fare as well if tests are mandatory.
+I would recommend the state of Pennsylvania for the following reasons: It is of close proximity to states where the SAT is contracted. Secondly, they have also experienced an increased in participation rates for the SAT from 65% to 70%. In addition, as discovered earlier in the preliminary analysis, high participation rates tend to correspond to low test scores. However, it is worth pointing out that Pennsylvania increased their SAT scores from 2017 to 2018. As such, this could indicate that the students are seeking out the SAT as opposed to the ACT. 
 
-In order to increase the SAT participation rates, the board should channel the resources to states where the ACT is not contracted. I would recommend the state of Pennsylvania for the following reasons: It is of close proximity to states where the SAT is contracted. Secondly, they have also experienced an increased in participation rates for the SAT from 65% to 70%. In addition, as discovered earlier in the preliminary analysis, high participation rates tend to correspond to low test scores. However, it is worth pointing out that Pennsylvania increased their SAT scores from 2017 to 2018. As such, this could indicate that the students are seeking out the SAT as opposed to the ACT. https://www.applerouth.com/blog/2016/01/13/how-the-sat-got-its-groove-back
-
+Another state one might consider is California as there is a lot of room for overall participation in the SAT. This would capitalise on absolute numbers instead of participation rate as there are 850, 000 students not covered by either the SAT or the ACT. This implies that a 1% increase in participation rate would lead to a much higher rise in absolute numbers in terms of participation.
 
 
 |Feature|Type|Dataset|Description|
