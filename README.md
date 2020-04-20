@@ -39,7 +39,6 @@ In order to increase the SAT participation rates, the board should channel the r
 |act_science_18|float|ACT/SAT|State mean score for Science in 2018|
 |act_composite_18|float|ACT/SAT|State mean composite score (average score for English, Math, Reading, and Science) in 2018| 
 
->>>>>>> cd9a41ca17a67112f4b804adb2bfbf9b648f653a
 
 ### Datasets
 
