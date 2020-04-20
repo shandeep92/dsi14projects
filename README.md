@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Testing, Statistical Summaries and Inference
 
 ### Overview
@@ -18,6 +19,49 @@ Generally speaking, you will be asked to come up with a data science problem. He
 > The new format for the SAT was released in March 2016. As an employee of the College Board - the organization that administers the SAT - you are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Your presentation and report should be geared toward **non-technical** executives with the College Board and you will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a **state of your choice**.
 
 ---
+=======
+# dsi14projects
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: SAT and ACT Analysis
+
+### Problem Statement
+This project analyses the SAT and ACT participation rates along with the test scores in the USA. Performance and participation rates differ across states and the goal of the paper is to extract and analyse data using various forms of statistical inferences and visualization tools to provide recommendations to the college board to increase SAT participation rates. Analysis is based on SAT and ACT data in 2017 and 2018.
+
+### Executive Summary
+In general, the ACT is a more common mode of exam as compared to the SAT.
+
+High participation rates on either the SAT or the ACT typically means low participation rates for the other test across states in the USA. This trend is heightened in states where the ACT is mandatory. Thus, it makes sense to channel the resources and funds to states where the ACT is not compulsory.
+
+As far as test scores are concerned, they remained fairly similar even at the high and low ends of the grades. However, a trend that emerges from the data is that states do not fare as well if tests are mandatory.
+
+In order to increase the SAT participation rates, the board should channel the resources to states where the ACT is not contracted. I would recommend the state of Pennsylvania for the following reasons: It is of close proximity to states where the SAT is contracted. Secondly, they have also experienced an increased in participation rates for the SAT from 65% to 70%. In addition, as discovered earlier in the preliminary analysis, high participation rates tend to correspond to low test scores. However, it is worth pointing out that Pennsylvania increased their SAT scores from 2017 to 2018. As such, this could indicate that the students are seeking out the SAT as opposed to the ACT. https://www.applerouth.com/blog/2016/01/13/how-the-sat-got-its-groove-back
+
+
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|state|object|ACT/SAT|Names of the 50 states in the USA| 
+|sat_participation_17|float|ACT/SAT|State participation rate (%) in 2017|
+|sat_erw_17|float|ACT/SAT|State mean score for Evidence-Based Reading and Writing in 2017|
+|sat_math_17|float|ACT/SAT|State mean score for Math in 2017|
+|sat_total_17|float|ACT/SAT|State mean total (Evidence-Based Reading and Writing and Math combined total) in 2017|
+|act_participation_17|float|ACT/SAT|State participation rate (%) in 2017| 
+|act_eng_17|float|ACT/SAT|State mean score for English in 2017|
+|act_math_17|float|ACT/SAT|State mean score for Math in 2017|
+|act_reading_17|float|ACT/SAT|State mean score for Reading in 2017|
+|act_science_17|float|ACT/SAT|State mean score for Science in 2017|
+|act_composite_17|float|ACT/SAT|State mean composite score (average score for English, Math, Reading, and Science) in 2017| 
+|sat_participation_18|float|ACT/SAT|State participation rate (%) in 2018|
+|sat_erw_18|float|ACT/SAT|State mean score for Evidence-Based Reading and Writing in 2018|
+|sat_math_18|float|ACT/SAT|State mean score for Math in 2018|
+|sat_total_18|float|ACT/SAT|State mean total (Evidence-Based Reading and Writing and Math combined total) in 2017|
+|act_participation_18|float|ACT/SAT|State participation rate (%) in 2018| 
+|act_eng_18|float|ACT/SAT|State mean score for English in 2018|
+|act_math_18|float|ACT/SAT|State mean score for Math in 2018|
+|act_reading_18|float|ACT/SAT|State mean score for Reading in 2018|
+|act_science_18|float|ACT/SAT|State mean score for Science in 2018|
+|act_composite_18|float|ACT/SAT|State mean composite score (average score for English, Math, Reading, and Science) in 2018| 
+
+>>>>>>> cd9a41ca17a67112f4b804adb2bfbf9b648f653a
 
 ### Datasets
 
@@ -37,6 +81,7 @@ You can see the source for the SAT data [here](https://blog.collegevine.com/here
 2018 state-by-state average results and participation for the SAT are available in PDF reports [here](https://reports.collegeboard.org/sat-suite-program-results/state-results). 2018 ACT state-by-state mean composite scores and participation rates are [here](http://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf) .
 
 **This data has been compiled into CSV files which are also included in the *data* directory of this repo**
+<<<<<<< HEAD
 
 ---
 
@@ -174,3 +219,5 @@ In order to pass the project, students must earn a minimum score of 1 for each c
 ### REMEMBER:
 
 This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.
+=======
+>>>>>>> cd9a41ca17a67112f4b804adb2bfbf9b648f653a
