@@ -2,9 +2,15 @@
 
 
 **Overview:**
-Examined a housing dataset from Ames, USA. This project was part of a kaggle competition involving data scientists from all over the world. The aim here was to come up with a model that allows us to predict house prices using the data set at our disposal. Without the ability to model, one might not get their returns on investment whenever they choose to sell their houses or by the same token, others might want to buy the best house subject to their budget constraints. 
+
+Examined a housing dataset from Ames, USA. This project was part of a kaggle competition involving data scientists from all over the world. The aim here was to come up with a model that allows us to predict house prices using the data set at our disposal. Without the ability to model, one might not get their returns on investment whenever they choose to sell their houses or, by the same token, others might want to buy the best house subject to their budget constraints. 
+
 
 Therefore, I fitted several linear regression models, including regularized models in order to determine whether or not these models would be able to predict house prices especially on an unseen data set. The performance metric used to gauge the model accuracy is the R2.
+
+**Limitations**
+
+The model may however have some problems as it was based on data on houses sold between 2006 - 2010 and it represents a very small time frame and only from the city of Ames. This dataset is limited in scope both in terms of the time frame captured, as well as location. House prices could be a little challenging to predict as it is also affected by a wide variety of factors such as how the economy is performing, expectations of individuals of what they deem the house price should be, or other possible variables that were excluded in the data set. Thus, this model serves with limited scope and it is, without a doubt, still useful to some degree.
 
 ## Dictionary
 
